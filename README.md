@@ -1,7 +1,7 @@
 # api-test-petstore
 This is the automation api of "Petstore" sample project 
 
-## 🚀 
+## 🚀 Detail Informations
 Link : (https://petstore.swagger.io/)
 Included API : 
  - POST /user - Create user
